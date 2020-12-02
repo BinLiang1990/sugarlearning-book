@@ -2,7 +2,7 @@
 description: Home
 ---
 
-# Initial page
+# Home
 
 ## SugarLearning
 
